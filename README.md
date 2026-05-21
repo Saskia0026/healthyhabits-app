@@ -22,7 +22,7 @@ HealthyHabits adalah aplikasi monitoring pola hidup sehat mahasiswa yang membant
 
 ## Cara Menjalankan Project
 
-1. Clone repository ini
+1. Download atau clone repository ini jika ingin menjalankan project secara lokal
 2. Install dependencies menggunakan npm
 3. Jalankan project dengan perintah:
 
