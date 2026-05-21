@@ -20,6 +20,23 @@ HealthyHabits adalah aplikasi monitoring pola hidup sehat mahasiswa yang membant
 * Tailwind CSS
 * Loveable AI
 
+## Cara Menjalankan Project
+
+1. Clone repository ini
+2. Install dependencies menggunakan npm
+3. Jalankan project dengan perintah:
+
+```bash
+npm install
+npm run dev
+```
+
+4. Buka browser dan akses localhost yang muncul setelah project dijalankan
+
+## Live Demo
+
+https://aqua-sleep-spark.lovable.app
+
 ## Tujuan Aplikasi
 
 Aplikasi ini dibuat untuk membantu mahasiswa membangun kebiasaan hidup sehat secara konsisten melalui monitoring hidrasi dan pola tidur harian.
@@ -30,8 +47,4 @@ Project masih dalam tahap pengembangan dan penyempurnaan fitur.
 
 ## Developer
 
-Saskia Dwi Agustina
-
-## Live Demo
-
-https://aqua-sleep-spark.lovable.app
+Saskia Dwi Agustina 𝜗𝜚 ࣪˖ ִ𐙚 
